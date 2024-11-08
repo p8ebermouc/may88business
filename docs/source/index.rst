@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+MAY88 – Nhà Cái Cá Cược Hàng Đầu Với Đa Dạng Trò Chơi Và Khuyến Mãi Hấp Dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`MAY88 <https://may88.business/>`_ là một trong những nhà cái cá cược trực tuyến hàng đầu tại Việt Nam, nổi bật với sự phát triển bền vững và không ngừng đổi mới. MAY88 cung cấp đa dạng sản phẩm từ cá cược thể thao, casino trực tuyến, slot game, game bài, bắn cá đến Esport, mang lại trải nghiệm giải trí đẳng cấp. Bên cạnh đó, MAY88 thu hút người chơi với nhiều chương trình khuyến mãi hấp dẫn như thưởng chào mừng, cashback và hoàn trả cược thua, cùng hệ thống bảo mật hiện đại và dịch vụ chăm sóc khách hàng 24/7 chuyên nghiệp.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 4a Đ. 6A, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0300321511. 
 
-Contents
---------
+Email: info@may88.business. 
 
-.. toctree::
+Website: https://may88.business/
 
-   usage
-   api
+#may88 #trangchumay88 #dangkymay88 #dangnhapmay88 #linkmay88
